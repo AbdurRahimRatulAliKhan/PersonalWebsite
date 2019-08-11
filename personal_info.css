@@ -1,0 +1,27 @@
+.info {
+    background-color: #bbbbbb;
+    padding: 20px;
+    position: fixed;
+    text-align: center;
+    font-size: 100%;
+}
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 20px;
+  color: white;
+}
+
+.node {width: 85%; background-color: #4CAF50;}
+.angular {width: 75%; background-color: #2196F3;}
+.js {width: 92%; background-color: #f44336;}
+.express {width: 80%; background-color: #808080;}
+.mongoDB {width: 90%; background-color: #8ca534;}
